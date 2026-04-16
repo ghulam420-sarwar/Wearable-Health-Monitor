@@ -2,7 +2,7 @@
 
 A compact ESP32-C3-based wearable that continuously monitors **heart rate** and **body surface temperature** on the wrist/finger, shows live readings on a small OLED, and vibrates if the heart rate crosses safety thresholds. The board was taken from schematic to PCB in KiCad.
 
-![Circuit diagram](images/circuit_diagram.png)
+![Circuit diagram](https://github.com/ghulam420-sarwar/Wearable-Health-Monitor/blob/main/circuit_diagram.png)
 
 ## Highlights
 
