@@ -10,6 +10,7 @@ A compact ESP32-C3-based wearable that continuously monitors **heart rate** and 
 - **Non-contact body temperature** via MLX90614 IR thermometer
 - **Local alert** with a vibration motor — no phone needed
 - **KiCad schematic → PCB → assembled prototype** (all files in `docs/`)
+- ![Circuit diagram](https://github.com/ghulam420-sarwar/Wearable-Health-Monitor/blob/main/pcb_layout.png)
 - **LiPo-powered** with TP4056 charging circuit
 
 ## Hardware
