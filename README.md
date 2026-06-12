@@ -1,6 +1,6 @@
 # Wearable Health Monitoring Device
 
-A compact ESP32-C3-based wearable that continuously monitors **heart rate** and **body surface temperature** on the wrist/finger, shows live readings on a small OLED, and vibrates if the heart rate crosses safety thresholds. The board was taken from schematic to PCB in KiCad.
+A compact ESP32-C3-based wearable that continuously monitors heart rate and body surface temperature on the wrist/finger, shows live readings on a small OLED, and vibrates if the heart rate crosses safety thresholds. The board was taken from schematic to PCB in KiCad, and manufactured by [PCBWay](https://www.pcbway.com) through their student sponsorship programme.
 
 ![Circuit diagram](https://github.com/ghulam420-sarwar/Wearable-Health-Monitor/blob/main/circuit_diagram.png)
 
@@ -81,11 +81,8 @@ and communication throughout the process.
 
 ### For Fellow Students
 
-If you're a student working on a hardware project, PCBWay 
-offers a sponsorship programme that covers PCB manufacturing 
-costs — well worth applying for. It made turning this design 
-from a KiCad file into a real, working board possible at zero 
-cost. Check their website for student programme details.
+If you're a student working on a hardware project, PCBWay offers a sponsorship programme that covers PCB manufacturing costs — well worth applying for. It made turning this design from a KiCad file into a real, working board possible at zero cost. Check their website for student programme details.
+
 ## License
 
 MIT © Ghulam Sarwar
