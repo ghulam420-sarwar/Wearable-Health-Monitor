@@ -63,8 +63,9 @@ pio device monitor
 - Interpreting and filtering a raw PPG (photoplethysmography) signal
 - Driving an inductive load (vibration motor) via MOSFET with a flyback diode
 - Picking sensor placement so ambient light does not swamp the IR signal
+- 
 ## PCB Manufacturing
-
+![Circuit diagram](https://github.com/ghulam420-sarwar/Wearable-Health-Monitor/blob/main/IMG_5885.jpeg)
 This PCB was manufactured by [PCBWay](https://www.pcbway.com) 
 through their student sponsorship programme.
 
