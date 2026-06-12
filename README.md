@@ -63,7 +63,28 @@ pio device monitor
 - Interpreting and filtering a raw PPG (photoplethysmography) signal
 - Driving an inductive load (vibration motor) via MOSFET with a flyback diode
 - Picking sensor placement so ambient light does not swamp the IR signal
+## PCB Manufacturing
 
+This PCB was manufactured by [PCBWay](https://www.pcbway.com) 
+through their student sponsorship programme.
+
+- **Order:** W1024925AS3P1
+- **Specs:** 2-layer, 50×60mm, FR-4, HASL finish
+- **Sponsored by:** PCBWay
+
+The board arrived with clean traces, sharp silkscreen, and 
+matched the original Gerber files perfectly — great quality 
+and communication throughout the process.
+
+⭐⭐⭐⭐⭐ Highly recommended!
+
+### For Fellow Students
+
+If you're a student working on a hardware project, PCBWay 
+offers a sponsorship programme that covers PCB manufacturing 
+costs — well worth applying for. It made turning this design 
+from a KiCad file into a real, working board possible at zero 
+cost. Check their website for student programme details.
 ## License
 
 MIT © Ghulam Sarwar
